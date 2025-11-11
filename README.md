@@ -1,5 +1,7 @@
 # Meta Ad Performance Analysis Report | Facebook & Instagram Campaign Analytics using Power BI  
 
+![Meta](https://github.com/ManishKukreja98/Meta-AD-Performance-Analysis-PowerBI/blob/ca2eaa37b476877ea2a0c046bbd0a7f186e63f04/Assets/Meta.png)
+
 ## 🚀 Background & Overview
 This **Meta Ad Performance Analysis Report** is designed to evaluate and visualize the effectiveness of ad campaigns across **Facebook and Instagram** using **Power BI**.  
 
@@ -11,6 +13,11 @@ It enables marketing teams to:
 - Optimize **ad creatives, targeting, and budget allocation** using data-driven insights.  
 
 ---
+## Preview
+
+![Dashboard](https://github.com/ManishKukreja98/Meta-AD-Performance-Analysis-PowerBI/blob/ca2eaa37b476877ea2a0c046bbd0a7f186e63f04/Assets/Meta%20Ad%20Analysis%20Dashboard.png)
+
+![Data Modeling](https://github.com/ManishKukreja98/Meta-AD-Performance-Analysis-PowerBI/blob/ca2eaa37b476877ea2a0c046bbd0a7f186e63f04/Assets/Data%20modeling.png)
 
 ## 🧩 Overview of Data Structure
 The dataset was extracted from **Meta Ads Manager** and contains campaign-level details.  
